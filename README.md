@@ -9,6 +9,7 @@ There are two parts.
 - Of the few available demographic variables available (due to empty columns), whether or not one works in ones own country was the most was the most predictive. Sex was the least predictive. 
 
 Source of data: https://ec.europa.eu/eurostat/web/microdata/labour-force-survey
+blog post: https://medium.com/@summercook_99949/are-job-seeking-methods-gendered-363baddb1b35
 
 ## Requirements
 - Python Jupyter notebook 
